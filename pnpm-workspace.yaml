@@ -1,1 +1,7 @@
 autoInstallPeers: true
+
+ignoredBuiltDependencies:
+  - '@swc/core'
+  - nx
+  - sharp
+  - unrs-resolver
